@@ -9,5 +9,8 @@
   },
   "dependencies": {
     "nuxt": "^1.0.0-rc11"
+  },
+  "devDependencies": {
+    "cross-env": "^5.1.1"
   }
 }
