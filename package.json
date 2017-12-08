@@ -5,7 +5,9 @@
   "repository": "git@github.com:YMD7/homecinema.git",
   "author": "Kyo Yamada <hysteric.madam@gmail.com>",
   "scripts": {
-    "dev": "cross-env PORT=3333 nuxt"
+    "dev": "cross-env PORT=3333 nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
