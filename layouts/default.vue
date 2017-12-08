@@ -1,14 +1,14 @@
 <template lang="pug">
-div
-  nuxt
-  Footer
+section
+  nuxt/
+  FooterPart/
 </template>
 
 <script>
-import Footer from '../components/Footer.vue'
+import FooterPart from '../components/footer/Footer.vue'
 export default {
   components: {
-    Footer
+    FooterPart
   }
 }
 </script>

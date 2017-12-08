@@ -1,8 +1,11 @@
 <template lang="pug">
-  h1 Hello world
+section
+  h1
+    | Hello world
+  img(src="~/assets/images/pages/index/logo.svg")
 </template>
 
 <style scoped lang="stylus">
-  h1
-    font-size 48px
+h1
+  font-size 48px
 </style>
