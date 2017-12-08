@@ -1,0 +1,8 @@
+{
+  "name": "homecinema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YMD7/homecinema.git",
+  "author": "Kyo Yamada <hysteric.madam@gmail.com>",
+  "license": "MIT"
+}
