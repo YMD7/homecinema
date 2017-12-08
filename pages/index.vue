@@ -2,7 +2,7 @@
 section
   h1
     | Hello world
-  img(src="~/assets/images/pages/index/logo.svg")
+  img(src="~/assets/images/logo.svg")
 </template>
 
 <style scoped lang="stylus">
