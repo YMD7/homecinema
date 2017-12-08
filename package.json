@@ -5,12 +5,13 @@
   "repository": "git@github.com:YMD7/homecinema.git",
   "author": "Kyo Yamada <hysteric.madam@gmail.com>",
   "scripts": {
-    "dev": "nuxt"
+    "dev": "cross-env PORT=3333 nuxt"
   },
   "dependencies": {
     "nuxt": "^1.0.0-rc11"
   },
   "devDependencies": {
-    "cross-env": "^5.1.1"
+    "cross-env": "^5.1.1",
+    "pug": "^2.0.0-rc.4"
   }
 }
