@@ -1,5 +1,5 @@
 <template lang="pug">
-section
+section#root
   nuxt/
   FooterPart/
 </template>
@@ -12,3 +12,14 @@ export default {
   }
 }
 </script>
+
+<style lang="stylus">
+html, body
+  height 100%
+#root
+  display flex
+  height 100vh
+  flex-direction column
+  align-items center
+  justify-content center
+</style>

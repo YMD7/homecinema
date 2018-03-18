@@ -5231,3 +5231,7 @@ yargs@~3.10.0:
     cliui "^2.1.0"
     decamelize "^1.0.0"
     window-size "0.1.0"
+
+"ymd_default.css@https://github.com/YMD7/ymd_default.css.git":
+  version "1.0.0"
+  resolved "https://github.com/YMD7/ymd_default.css.git#4549100e27f32bc8c38ff2d36d19afde2ab7279a"

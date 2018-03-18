@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
-    "nuxt": "^1.0.0-rc11"
+    "nuxt": "^1.0.0-rc11",
+    "ymd_default.css": "https://github.com/YMD7/ymd_default.css.git"
   },
   "devDependencies": {
     "cross-env": "^5.1.1",

@@ -10,6 +10,7 @@ module.exports = {
     ]
   },
   css: [
-    'normalize.css/normalize.css'
+    'normalize.css/normalize.css',
+    'ymd_default.css/ymd_default.css'
   ]
 }
